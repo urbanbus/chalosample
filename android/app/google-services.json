@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442040662694",
+    "project_id": "urban-bus-ee062",
+    "storage_bucket": "urban-bus-ee062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442040662694:android:3140437ffe05942752d267",
+        "android_client_info": {
+          "package_name": "com.example.urbanbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442040662694-1ld8mct2bunoe8j42027pnijrgadfdlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnONgAw8F8sJ8Hxj1F3Qr6ghDj_oBw8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442040662694-1ld8mct2bunoe8j42027pnijrgadfdlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
